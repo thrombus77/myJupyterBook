@@ -20,6 +20,7 @@ jupyterlite-xeus-sqlite==0.2.1
 jupyterlite-p5-kernel==0.1.0
 # Lua kernel (optional)
 jupyterlite-xeus-lua==0.3.1
+calysto_processing
 
 # JupyterLab: Fasta file renderer (optional)
 jupyterlab-fasta>=3.3.0,<4
